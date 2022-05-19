@@ -1,0 +1,10 @@
+<html>
+<body>
+	<h2>Hello Welcome to Spring JDBC & WebMVC application !</h2>
+	<h2>Spring JDBC CRUD Operations</h2>
+	<a href="list-products"> List Products</a> ||
+	<a href="add-product"> Add Product</a> ||
+	<a href="update-product"> Update Product</a> ||
+	<a href="delete-product"> Delete Product</a> ||
+</body>
+</html>
